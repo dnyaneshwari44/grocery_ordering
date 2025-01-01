@@ -58,10 +58,10 @@
         <img src="https://img.icons8.com/fluency/96/vegetarian-food.png" alt="Grocery Logo">
         <h3>Complete Your Grocery Payment</h3>
         <p>Secure payment for your Groceries.</p>
-<form>
- <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_PLbNCg4EsIUpf7" async> 
-</script> 
-</form>
+    <form>
+        <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_PeDOu7wr0Ubm34" async> 
+        </script>
+    </form>
 <span class="btn-note">100% secure payment with Razorpay</span>
     </div>
 </body>
